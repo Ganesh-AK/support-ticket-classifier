@@ -1,0 +1,101 @@
+text,category
+I forgot my password and cannot sign in,login
+My account is locked after too many attempts,login
+OTP is not coming to my mobile number,login
+Unable to login to the portal it says invalid credentials,login
+Reset password link is not working,login
+Two factor authentication code is not accepted,login
+I cannot access my email account,login
+Login page keeps refreshing after I enter my username,login
+My username is not recognized by the system,login
+Session expired immediately after login,login
+Need to unlock my account urgently,login
+Password reset email never arrived,login
+Single sign on is failing for the HR portal,login
+I changed my password but the old one still works,login
+Account disabled message shows when I try to sign in,login
+Cannot log in from my new phone,login
+Security question answer is not accepted,login
+Captcha on the login page is not loading,login
+I am getting access denied after entering correct password,login
+Please reset my password for the support dashboard,login
+Authenticator app shows wrong code,login
+Login works on laptop but fails on mobile app,login
+My account was logged out suddenly and I cannot sign back in,login
+User ID is locked please unlock it,login
+Unable to register a new account with my email,login
+VPN keeps disconnecting every few minutes,network
+Internet is very slow in the office,network
+Wifi is connected but no internet access,network
+Cannot reach the company server from home,network
+Website is not loading and shows timeout error,network
+Video calls are lagging because of poor network,network
+Ethernet cable connected but no connection,network
+DNS server not responding error on my laptop,network
+Unable to connect to the shared drive,network
+Network drops every time I open the application,network
+Ping to the server shows request timed out,network
+Remote desktop connection fails to connect,network
+Wifi signal is very weak in the meeting room,network
+Firewall is blocking access to the internal tool,network
+Packet loss is high during peak hours,network
+Printer is not reachable on the network,network
+Gateway timeout error when opening the dashboard,network
+My IP address conflict message appears,network
+Download speed has dropped a lot since morning,network
+VPN connects but internal sites do not open,network
+Network is down on the third floor,network
+Proxy settings are causing connection errors,network
+Cannot connect to the company wifi after update,network
+Application says server unreachable,network
+Intermittent connection loss on my work laptop,network
+Money was deducted but order not confirmed,payment
+Payment failed but amount debited from my bank,payment
+I was charged twice for the same order,payment
+Refund has not been credited to my account,payment
+Credit card is declined at checkout,payment
+Invoice amount is wrong,payment
+UPI payment is stuck in pending status,payment
+Payment gateway shows error at the last step,payment
+I did not receive the payment receipt,payment
+Subscription was renewed without my permission,payment
+Need a refund for the cancelled order,payment
+Net banking page closes before payment completes,payment
+Coupon code discount was not applied to my bill,payment
+Transaction ID is missing from my confirmation email,payment
+Wrong amount was charged to my card,payment
+Cannot add a new debit card for payment,payment
+Refund was promised in 5 days but still not received,payment
+Auto debit failed for my monthly plan,payment
+Payment confirmation shows failed but money is gone,payment
+I need a copy of the invoice for last month,payment
+Bank deducted the amount but the service is not activated,payment
+GST details are missing on my invoice,payment
+Wallet balance is not updated after recharge,payment
+Payment option for cash on delivery is not showing,payment
+Chargeback request for a fraudulent transaction,payment
+How do I change my profile photo,other
+Please update my phone number in the system,other
+Where can I find the user guide,other
+I want to give feedback about the mobile app,other
+The dashboard text is too small to read,other
+How do I change the language of the application,other
+Request to add a new team member to our group,other
+Can you tell me the office support hours,other
+Need a feature to export reports to Excel,other
+App crashes when I open the settings page,other
+Please delete my account data,other
+How do I subscribe to the weekly newsletter,other
+Notification sound is not working on the app,other
+Request for training session on the new tool,other
+The font on the report page looks broken,other
+Can I get a certificate for completing the course,other
+I want to change my email notification preferences,other
+Dark mode option is missing in the app,other
+Suggest adding a search bar on the home page,other
+How do I download my monthly report,other
+Spelling mistake on the help page,other
+Please share the release notes for the latest version,other
+I need access to the sales folder,other
+How to update my address in the profile,other
+Thank you for the quick help yesterday,other
